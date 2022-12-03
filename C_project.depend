@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1661697789 source:c:\users\mostafa\onedrive\desktop\communication\embedded systems\c\project\c_project\main.c
+	"C_project.h"
+
+1661968100 c:\users\mostafa\onedrive\desktop\communication\embedded systems\c\project\c_project\c_project.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1661696031 source:c:\users\mostafa\onedrive\desktop\communication\embedded systems\c\project\c_project\c_project.c
+	"C_project.h"
+
